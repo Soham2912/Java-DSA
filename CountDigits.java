@@ -2,7 +2,7 @@
 
 // Note :- Evenly divides means whether n is divisible by a digit i.e. leaves a remainder 0 when divided.
 
-class Solution{
+class CountDigits{
     static int evenlyDivides(int N){
         // code here
         int c=0;
