@@ -1,3 +1,11 @@
+// This function helps in finding the maximum element in the array.
+//  Execute this function to print the maximum element in the array with its index.
+
+
+
+
+
+
 public class MaxElementFinder {
 
     public static void findAndPrintMaxElement(int[] array) {
