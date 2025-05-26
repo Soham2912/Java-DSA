@@ -1,6 +1,6 @@
 import java.util.* ;
 import java.io.*; 
-public class Solution {
+public class Equillibrium {
 
 	public static int arrayEquilibriumIndex(int[] arr){  
 		//Your code goes here
